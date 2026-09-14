@@ -1,0 +1,8 @@
+{
+  "name": "Remix Duemar Baby Shop",
+  "description": "Aplikasi usaha perlengkapan bayi Duemar Baby Shop dengan sistem otomatis interaktif, katalog lengkap, harga murah \u0026 efisien.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

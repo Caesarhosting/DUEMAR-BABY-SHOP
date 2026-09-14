@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Duemar Baby Shop</string>
+    <string name="notification_channel_name">Promo &amp; Produk Baru Duemar</string>
+    <string name="notification_channel_desc">Pemberitahuan Flash Sale kilat, diskon spesial, dan rilis produk baru Duemar Baby Shop</string>
+</resources>
